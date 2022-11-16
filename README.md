@@ -1,13 +1,13 @@
 ## Installation:
 
 ```bash
-npm install react-map-search --save-dev
+npm install react-map-input-search --save-dev
 ```
 
 or
 
 ```bash
-yarn add -D react-map-search
+yarn add -D react-map-input-search
 ```
 
 ## Usage :
@@ -17,7 +17,7 @@ Add `ReactMapSearch` to your component:
 ```js
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { ReactMapSearch } from 'react-map-search'
+import { ReactMapSearch } from 'react-map-input-search'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(

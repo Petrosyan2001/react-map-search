@@ -1,5 +1,5 @@
 {
-  "name": "react-map-search",
+  "name": "react-map-input-search",
   "version": "1.0.0",
   "description": "React Map Search",
   "main": "./dist/cjs/index.js",
