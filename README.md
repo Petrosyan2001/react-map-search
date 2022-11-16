@@ -1,5 +1,5 @@
 ## Demo
-![](https://drive.google.com/file/d/1himRP8gi9hck2SyxowV7iUKyglHwW4cX/view?usp=sharing)
+![](https://github.com/Petrosyan2001/react-map-search/blob/main/assets/demo.gif)
 ## Installation:
 
 ```bash
